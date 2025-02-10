@@ -1,9 +1,9 @@
 {
     "pause.title": "S&RP",
-    "pause.subtitle": "The RP Revolution",
-    "pause.resume": "Resume",
-    "pause.discord": "Join the Discord (Clipboard)",
-    "pause.settings": "Settings",
-    "pause.quit_menu": "Quit To Menu",
-    "pause.quit": "Quit"
+    "pause.subtitle": "La Revolution du RP",
+    "pause.resume": "Reprendre",
+    "pause.discord": "Rejoindre le Discord",
+    "pause.settings": "Paramètres",
+    "pause.quit_menu": "Retour au menu principal",
+    "pause.quit": "Quitter"
 }
