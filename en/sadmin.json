@@ -1,0 +1,15 @@
+{
+    "sadmin.overview": "Overview",
+    "sadmin.search": "Search",
+    "sadmin.user_management": "User Management",
+    "sadmin.um_user_steamid": "User SteamId",
+    "sadmin.um_user_select_rank": "Select a rank",
+    "sadmin.um_user_set_rank": "Set User Rank",
+    "sadmin.permissions": "Permissions",
+    "sadmin.chat_prefix": "Chat Prefix",
+    "sadmin.perm_id": "Permission ID",
+    "sadmin.perm_data": "Permission Data",
+    "sadmin.perm_data__rank": "Data Rank",
+    "sadmin.perm_data__limit": "Data Limit",
+    "sadmin.config": "Config"
+}
