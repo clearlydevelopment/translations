@@ -18,3 +18,5 @@ Some basic rules to follow to get a request approved:
 - All translation languages must start as a copy of the `./en` folder so that the unfinished translations will default to english
 - Folders must be named based on the S&amp;Box [Documentation](https://sbox.game/dev/doc/ui/localization/)
 - There must not be any new string added unless you have spoken to a member of the s&rp development team.
+
+Tips: Run `python validate.py` to check for our missing languages and for any errors you may have that will not get your pull request approved.
