@@ -6,4 +6,10 @@
     "pause.settings": "Paramètres",
     "pause.quit_menu": "Retour au menu principal",
     "pause.quit": "Quitter"
+    "spawnmenu.props" : "Modèles locaux",
+    "spawnmenu.entities" : "Entités",
+    "spawnmenu.modellist": "Modèles",
+    "spawnmenu.tools": "Outils",
+    "spawnmenu.utility": "Utilitaires",
+    "spawnmenu.npclist": "PNJ"
 }
