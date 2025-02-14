@@ -11,5 +11,9 @@
     "spawnmenu.modellist": "Models",
     "spawnmenu.tools": "tools",
     "spawnmenu.utility": "utility",
-    "spawnmenu.npclist": "NPC"
+    "spawnmenu.npclist": "NPC",
+    "sprinter.temperature": "Temperature",
+    "sprinter.power_usage": "Power Usage",
+    "sprinter.income": "Income [per minute]",
+    "sprinter.withdraw": "Withdraw"
 }
