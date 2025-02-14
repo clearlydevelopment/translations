@@ -5,5 +5,11 @@
     "pause.discord": "Join the Discord (Clipboard)",
     "pause.settings": "Settings",
     "pause.quit_menu": "Quit To Menu",
-    "pause.quit": "Quit"
+    "pause.quit": "Quit",
+    "spawnmenu.props" : "Local Models",
+    "spawnmenu.entities" : "entities",
+    "spawnmenu.modellist": "Models",
+    "spawnmenu.tools": "tools",
+    "spawnmenu.utility": "utility",
+    "spawnmenu.npclist": "NPC"
 }
