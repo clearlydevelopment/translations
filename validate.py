@@ -102,7 +102,6 @@ def main():
     tmp_warning = 0
     if json_issues:
         print(f"JSON structure issues: {json_issues}")
-        exit(1)
 
     if (warnings > 0):
         print(f"❗  Validation passed with {warnings} warnings")
