@@ -15,5 +15,8 @@
     "sprinter.temperature": "Temperature",
     "sprinter.power_usage": "Power Usage",
     "sprinter.income": "Income [per minute]",
-    "sprinter.withdraw": "Withdraw"
+    "sprinter.withdraw": "Withdraw",
+    "death.title": "You Died",
+    "death.subtitle": "The paramedics are on their way!",
+    "death.respawn": "Respawn"
 }
