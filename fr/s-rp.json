@@ -12,4 +12,11 @@
     "spawnmenu.tools": "Outils",
     "spawnmenu.utility": "Utilitaires",
     "spawnmenu.npclist": "PNJ"
+    "sprinter.temperature": "Température",
+    "sprinter.power_usage": "Consommation électrique",
+    "sprinter.income": "Revenus [par minute]",
+    "sprinter.withdraw": "Retirer",
+    "death.title": "Vous êtes mort",
+    "death.subtitle": "Les secours sont en route!",
+    "death.respawn": "Réapparition"
 }
