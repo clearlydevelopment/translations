@@ -5,5 +5,15 @@
     "pause.discord": "Наш Discord (Скопировать)",
     "pause.settings": "Настройки",
     "pause.quit_menu": "Выйти в меню",
-    "pause.quit": "Выйти"
+    "pause.quit": "Выйти",
+    "spawnmenu.props" : "Локальные Модели",
+    "spawnmenu.entities" : "Энтити",
+    "spawnmenu.modellist": "Модели",
+    "spawnmenu.tools": "Инструменты",
+    "spawnmenu.utility": "Утилиты",
+    "spawnmenu.npclist": "NPC",
+    "sprinter.temperature": "Температура",
+    "sprinter.power_usage": "Энергопотребление",
+    "sprinter.income": "Доход / мин",
+    "sprinter.withdraw": "Снять"
 }
